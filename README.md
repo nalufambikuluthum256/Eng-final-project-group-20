@@ -3,12 +3,12 @@ An AI powered system designed to predict malaria trends based on historical and 
  ## overview
 Malaria continues to be a major global health challenge especially in tropical and subtropical regions.Accurate trend predictins can support early intervetions and improve public health outcomes.this project uses AI and data analyticsto forecast malaria casetrends
 ### features
-machine learning models
-local datasets for regional analysis
-Google maps
-open ai
+machine learning models,
+local datasets for regional analysis,
+Google maps,
+open ai,
 #### technologies
-programming languages
-data sources such as WHO
-HTML and CSS
-Artificial intelligence
+programming languages,
+data sources such as WHO,
+HTML and CSS,
+Artificial intelligence,
