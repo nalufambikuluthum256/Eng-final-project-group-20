@@ -19,4 +19,13 @@ programming languages,
 data sources such as WHO,
 HTML and CSS,
 Artificial intelligence,
-s
+### How to run the project
+user login,
+click dashboard.html(to view global trends,)
+click prediction.html(to view trends in ugandan districts)
+select district from the map
+click "generate prediction"
+ask any question about malaria using the AI assistant
+log out
+
+
