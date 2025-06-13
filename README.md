@@ -19,3 +19,4 @@ programming languages,
 data sources such as WHO,
 HTML and CSS,
 Artificial intelligence,
+s
